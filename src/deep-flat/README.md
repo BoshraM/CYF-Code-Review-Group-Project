@@ -28,6 +28,5 @@ helps you understand:
  * // -> ['a', 'b', 'c', 'd', 'e']
  */
 ```
-
 > Docstring is adapted from
 > [lodash's flattenDeep](https://github.com/lodash/lodash/blob/4.17.15/lodash.js#L7330)
